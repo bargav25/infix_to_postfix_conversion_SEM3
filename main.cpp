@@ -74,7 +74,7 @@ int main ()
 	  pushhelper (element);
 
 	}
-
+//Ascii values are used for operators
       else if (m == 43 || m == 45 || m == 47 || m == 42)
 	{
 
